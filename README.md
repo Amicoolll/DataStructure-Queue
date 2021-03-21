@@ -1,7 +1,7 @@
 # DataStructure-Queue
 
 
-// Queue Implementation with Linked List
+#Queue Implementation with Linked List
 
 class Node<T> {
   var value:T
